@@ -8,6 +8,7 @@
 * Episode reviews from OMDB API: https://www.omdbapi.com/ (OMDB ratings no longer used in analysis)
 
 ### Analysis
+* Identify characters with most lines, and characters with most lines in best/worst episodes
 * Determine portion of episodes attributable to characters (by number of lines)
 * Attribute episode ratings to characters based on line portion
 * Determine characters' per episode rating contribution
