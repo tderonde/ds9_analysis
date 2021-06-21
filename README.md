@@ -12,3 +12,7 @@
 * Determine portion of episodes attributable to characters (by number of lines)
 * Attribute episode ratings to characters based on line portion
 * Determine characters' per episode rating contribution
+
+![character_ratings](https://raw.githubusercontent.com/tderonde/ds9_analysis/main/plots/DS9_character_rating_per_episode.png)
+
+![worst_episodes](https://raw.githubusercontent.com/tderonde/ds9_analysis/main/plots/DS9_lines_in_worst_episodes.png)
