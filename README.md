@@ -13,7 +13,9 @@
 * Attribute episode ratings to characters based on line portion
 * Determine characters' per episode rating contribution
 
-![character_ratings](https://raw.githubusercontent.com/tderonde/ds9_analysis/main/plots/DS9_character_rating_per_episode.png)
+![character_ratings](https://raw.githubusercontent.com/tderonde/ds9_analysis/main/plots/DS9_character_per_episode_ratings.png)
+
+![character_ratings](https://raw.githubusercontent.com/tderonde/ds9_analysis/main/plots/DS9_character_rating_per_episode_non-major_characters.png)
 
 ![best_episodes](https://raw.githubusercontent.com/tderonde/ds9_analysis/main/plots/DS9_lies_in_top_episodes.png)
 
