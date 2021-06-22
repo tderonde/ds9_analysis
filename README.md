@@ -15,4 +15,7 @@
 
 ![character_ratings](https://raw.githubusercontent.com/tderonde/ds9_analysis/main/plots/DS9_character_rating_per_episode.png)
 
+![best_episodes](https://raw.githubusercontent.com/tderonde/ds9_analysis/main/plots/DS9_lies_in_top_episodes.png)
+
 ![worst_episodes](https://raw.githubusercontent.com/tderonde/ds9_analysis/main/plots/DS9_lines_in_worst_episodes.png)
+
